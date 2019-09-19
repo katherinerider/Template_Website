@@ -1,12 +1,21 @@
 body {
-  font-family: "Helvetica", sans-serif;
+  font-family: "courier new";
+}
+h1{
+  color: #000000;
+
+}
+h2 {
+  color: #FDFEFD;
+
+}
+h3 {
+  color: #7A0019;
 }
 
-h2 {
-  color: #1BC942;
-}
+
 
 #contact {
-  background-color: #FFDE7A;
+  background-color: #1C44A9;
   padding: 2%;
 }
